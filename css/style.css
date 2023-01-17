@@ -1,0 +1,13 @@
+body{
+    background-color: #222233;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color:azure;
+}
+
+p {
+    font-size: larger;
+    color: #AACCFF;
+}
